@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betul</h1>
 <h3 align="center">A computer engineering student who have real passion on this profession with coding and self-studying sessions. I have worked with various programming languages such as C and Java. Currently, I improve myself on web and Android development.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PDvcHKkIewAAAAAd/lofi-hiphop-radio-beats-to-relax-study-to.gif">
+<img align= "right" alt="Coding" width="400" src="https://media.tenor.com/PDvcHKkIewAAAAAd/lofi-hiphop-radio-beats-to-relax-study-to.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betuuluzunn&label=Profile%20views&color=0e75b6&style=flat" alt="betuuluzunn" /> </p>
 
 - 🌱 I’m currently learning **JavaScript.**
